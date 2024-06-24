@@ -1,7 +1,6 @@
 import * as React from 'react'
 
 import * as config from '@/lib/config'
-import { useDarkMode } from '@/lib/use-dark-mode'
 
 import styles from './styles.module.css'
 
