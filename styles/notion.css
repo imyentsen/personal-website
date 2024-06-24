@@ -120,11 +120,11 @@
 }
 
 .notion-quote {
-  padding: 0.2em 0.75em;
-  line-height: 1.5;
-  font-style: italic;
-  font-size: 1.2em;
-  border-left: 4px solid #67bdfc;
+  padding: 0.2em 0em;
+  line-height: 1.1;
+  font-family: Zen Old Mincho;
+  font-size: 3em;
+  border-left: none;
 }
 
 .notion-h1,
